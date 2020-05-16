@@ -9,4 +9,4 @@ This project is a starting point for a Flutter application.
 
 ##ScreenShot
 
-<img src="images/screenshot.png" width="200">
+<img src="images/screenshot.png" width="300">
